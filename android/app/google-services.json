@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260473289506",
+    "project_id": "demosamplecode-7d388",
+    "storage_bucket": "demosamplecode-7d388.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260473289506:android:e6c438a8c3a3c114f7037b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_push_notification_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260473289506-5s2hfh35qmtnjb1l5g3po2i0mkkivsme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0rzYGKVNQuPmO9jPMgapVDXYiwG5juJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260473289506-5s2hfh35qmtnjb1l5g3po2i0mkkivsme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
